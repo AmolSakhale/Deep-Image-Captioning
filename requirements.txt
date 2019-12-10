@@ -1,0 +1,14 @@
+torch
+torchvision
+nltk
+numpy
+datetime
+os
+pickle
+pandas
+collections
+random
+tqdm
+json
+h5py
+scipy == 1.1.0
