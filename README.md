@@ -27,4 +27,4 @@ Code organization
 - assets/checkpoints/ -- Directory to store checkpoints of training experiments, from which training can be resumed in case of unexpected interruptions like disconnection and session termination.
 
 
-Drive Link to Saved Models and Other Assets :https://drive.google.com/open?id=11z3UJ9NCBScFb8z3TbfQDEX7FX_5RxYV
+Drive Link to Saved Models and Other Assets : https://drive.google.com/drive/folders/11z3UJ9NCBScFb8z3TbfQDEX7FX_5RxYV?usp=sharing
